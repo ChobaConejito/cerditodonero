@@ -1,0 +1,20 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(nube.avif);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:rgb(248, 247, 248);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(241, 135, 215);
+	background-color: rgb(135, 225, 241);
+	font-family: cursive;
+}
